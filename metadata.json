@@ -1,0 +1,8 @@
+{
+  "name": "TEKA Sua Agente de AI ",
+  "description": "O TK Hub é o novo aplicativo desenvolvido para facilitar o dia a dia da nossa equipe, reunindo em um só lugar tudo o que você precisa para trabalhar com agilidade e inspiração. Aqui, você pesquisa no Google, gera imagens incríveis, cria vídeos, explora o Google Maps e muito mais,  usando o poder do Gemini para potencializar ideias, agilizar projetos e transformar a comunicação visual em resultados.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
